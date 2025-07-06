@@ -1,7 +1,5 @@
 import random
 # gives random choice
-
-
 def get_choice():
     player_choice = input("Enter youre choice (Rock, Paper, Scissors):  ");
     options = ["rock", "paper","scissors"];
