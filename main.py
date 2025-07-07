@@ -37,5 +37,8 @@ def check_win(player,computer):
 choices = get_choice();
 result = check_win(choices["Player"],choices["Computer"]);
 print('Result: '+ result);
+
+
+
 # choices = {"Player": "rock","Computer": "paper"};
 #p_choice = choices["Player"]
